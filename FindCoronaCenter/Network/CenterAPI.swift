@@ -9,7 +9,7 @@ import Foundation
 
 struct CenterAPI {
     static let scheme = "https"
-    static let host = "https://api.odcloud.kr"
+    static let host = "api.odcloud.kr"
     static let path = "/api/15077586/v1/centers"
     static let method = "GET"
     

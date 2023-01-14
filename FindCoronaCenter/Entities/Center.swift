@@ -13,7 +13,6 @@ struct Center: Hashable, Decodable {
     let sido: Sido
     let facilityName: String
     let address: String
-    let centerName: String
     let lat, lng: String
     let centerType: CenterType
     let phoneNumber: String
